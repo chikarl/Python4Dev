@@ -1,5 +1,5 @@
-string = 'Python 4 dev task 1 '
-string = string.split()
+string = input('Please enter a string : ')
+#string = string.split()
 num = []
 def ifNumber(x):
     for i in string:
